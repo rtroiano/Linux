@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ZimbraLicense verifier="ZV2">
+  <item name="AccountsLimit" value="50"/>
+  <item name="ArchivingAccountsLimit" value="50"/>
+  <item name="AttachmentConversionEnabled" value="true"/>
+  <item name="AttachmentIndexingAccountsLimit" value="50"/>
+  <item name="BackupEnabled" value="true"/>
+  <item name="CrossMailboxSearchEnabled" value="true"/>
+  <item name="EwsAccountsLimit" value="50"/>
+  <item name="HierarchicalStorageManagementEnabled" value="true"/>
+  <item name="ISyncAccountsLimit" value="50"/>
+  <item name="InstallType" value="trial"/>
+  <item name="IssuedOn" value="20170920180536Z"/>
+  <item name="IssuedToEmail" value="rtroiano@poweron.com"/>
+  <item name="IssuedToName" value="PowerON Services INC"/>
+  <item name="LicenseId" value="8257b8ce-b113-473c-a83c-df761c1509e5"/>
+  <item name="MAPIConnectorAccountsLimit" value="50"/>
+  <item name="MobileSyncAccountsLimit" value="50"/>
+  <item name="MobileSyncEnabled" value="true"/>
+  <item name="ResellerName" value=""/>
+  <item name="SMIMEAccountsLimit" value="50"/>
+  <item name="TouchClientsAccountsLimit" value="50"/>
+  <item name="TwoFactorAuthAccountsLimit" value="50"/>
+  <item name="ValidFrom" value="20170919000000Z"/>
+  <item name="ValidUntil" value="20171120170000Z"/>
+  <item name="VoiceAccountsLimit" value="50"/>
+  <item name="ZSSAccountsLimit" value="50"/>
+  <signature value="38a437bd6645fe3233f5638f3a322a2d941519d779aff6143143948a514af3860efd8a36acc9ee05b5a8b1cf3b19bf367e64445a9e8a66eb92c0de607c8196c1bb79ce65ddb6174962440d7dea47a5f35e8f673a0f381e36383be62b47ac4510be850151e4c3146960b198098591c0650f5996d4f684344103328b344ea24c899dea962a59e573bee963a2d1add80a9a6e79f45a7ccd1d1f6ee228ce379a57d6cde025a2612de104d4ab11d3d80524a6a4a08120672def35b75455e774e38bf4c78cef3353bf276d01a28e80438df27d315c7574a740e08716e7d8ac5b466aa312edc87f9e23d6e27ea3588e6d701702a77c639ffc358103a1bf61eb861aa998" key="zk1"/>
+</ZimbraLicense>
