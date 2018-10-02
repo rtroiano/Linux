@@ -101,6 +101,11 @@ if [ -x /usr/bin/dircolors ]; then
     alias fail2ban-stop='sudo fail2ban stop'
     alias fail2ban-status='sudo fail2ban-client status'
     alias fail2ban-iptables='sudo iptables -L'
+    alias mysql-start='sudo systemctl start mysql.service'
+    alias mysql-status='sudo systemctl status mysql.service'
+    alias mysql-stop='sudo systemctl stop mysql.service'
+    alias mysql-restart='sudo systemctl restart mysql.service'
+    
 fi
 
 # colored GCC warnings and errors
